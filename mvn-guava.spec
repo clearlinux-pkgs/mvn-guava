@@ -4,37 +4,38 @@
 #
 Name     : mvn-guava
 Version  : 14.0.1
-Release  : 11
+Release  : 12
 URL      : https://repo1.maven.org/maven2/com/google/guava/guava/14.0.1/guava-14.0.1.jar
 Source0  : https://repo1.maven.org/maven2/com/google/guava/guava/14.0.1/guava-14.0.1.jar
 Source1  : https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/16.0/guava-parent-16.0.pom
-Source2  : https://repo.maven.apache.org/maven2/com/google/guava/guava/16.0/guava-16.0.pom
-Source3  : https://repo1.maven.org/maven2/com/google/guava/guava-parent/11.0.2/guava-parent-11.0.2.pom
-Source4  : https://repo1.maven.org/maven2/com/google/guava/guava-parent/12.0.1/guava-parent-12.0.1.pom
-Source5  : https://repo1.maven.org/maven2/com/google/guava/guava-parent/14.0.1/guava-parent-14.0.1.pom
+Source2  : https://repo.maven.apache.org/maven2/com/google/guava/guava/16.0.1/guava-16.0.1-sources.jar
+Source3  : https://repo.maven.apache.org/maven2/com/google/guava/guava/16.0/guava-16.0.pom
+Source4  : https://repo1.maven.org/maven2/com/google/guava/guava-parent/11.0.2/guava-parent-11.0.2.pom
+Source5  : https://repo1.maven.org/maven2/com/google/guava/guava-parent/12.0.1/guava-parent-12.0.1.pom
 Source6  : https://repo1.maven.org/maven2/com/google/guava/guava-parent/14.0.1/guava-parent-14.0.1.pom
-Source7  : https://repo1.maven.org/maven2/com/google/guava/guava-parent/16.0.1/guava-parent-16.0.1.pom
+Source7  : https://repo1.maven.org/maven2/com/google/guava/guava-parent/14.0.1/guava-parent-14.0.1.pom
 Source8  : https://repo1.maven.org/maven2/com/google/guava/guava-parent/16.0.1/guava-parent-16.0.1.pom
-Source9  : https://repo1.maven.org/maven2/com/google/guava/guava-parent/18.0/guava-parent-18.0.pom
-Source10  : https://repo1.maven.org/maven2/com/google/guava/guava-parent/19.0/guava-parent-19.0.pom
+Source9  : https://repo1.maven.org/maven2/com/google/guava/guava-parent/16.0.1/guava-parent-16.0.1.pom
+Source10  : https://repo1.maven.org/maven2/com/google/guava/guava-parent/18.0/guava-parent-18.0.pom
 Source11  : https://repo1.maven.org/maven2/com/google/guava/guava-parent/19.0/guava-parent-19.0.pom
-Source12  : https://repo1.maven.org/maven2/com/google/guava/guava-parent/25.1-android/guava-parent-25.1-android.pom
-Source13  : https://repo1.maven.org/maven2/com/google/guava/guava/11.0.2/guava-11.0.2.jar
-Source14  : https://repo1.maven.org/maven2/com/google/guava/guava/11.0.2/guava-11.0.2.pom
-Source15  : https://repo1.maven.org/maven2/com/google/guava/guava/12.0.1/guava-12.0.1.jar
-Source16  : https://repo1.maven.org/maven2/com/google/guava/guava/12.0.1/guava-12.0.1.pom
-Source17  : https://repo1.maven.org/maven2/com/google/guava/guava/14.0.1/guava-14.0.1.pom
-Source18  : https://repo1.maven.org/maven2/com/google/guava/guava/16.0.1/guava-16.0.1.jar
-Source19  : https://repo1.maven.org/maven2/com/google/guava/guava/16.0.1/guava-16.0.1.pom
-Source20  : https://repo1.maven.org/maven2/com/google/guava/guava/18.0/guava-18.0.jar
-Source21  : https://repo1.maven.org/maven2/com/google/guava/guava/18.0/guava-18.0.pom
-Source22  : https://repo1.maven.org/maven2/com/google/guava/guava/19.0/guava-19.0.jar
+Source12  : https://repo1.maven.org/maven2/com/google/guava/guava-parent/19.0/guava-parent-19.0.pom
+Source13  : https://repo1.maven.org/maven2/com/google/guava/guava-parent/25.1-android/guava-parent-25.1-android.pom
+Source14  : https://repo1.maven.org/maven2/com/google/guava/guava/11.0.2/guava-11.0.2.jar
+Source15  : https://repo1.maven.org/maven2/com/google/guava/guava/11.0.2/guava-11.0.2.pom
+Source16  : https://repo1.maven.org/maven2/com/google/guava/guava/12.0.1/guava-12.0.1.jar
+Source17  : https://repo1.maven.org/maven2/com/google/guava/guava/12.0.1/guava-12.0.1.pom
+Source18  : https://repo1.maven.org/maven2/com/google/guava/guava/14.0.1/guava-14.0.1.pom
+Source19  : https://repo1.maven.org/maven2/com/google/guava/guava/16.0.1/guava-16.0.1.jar
+Source20  : https://repo1.maven.org/maven2/com/google/guava/guava/16.0.1/guava-16.0.1.pom
+Source21  : https://repo1.maven.org/maven2/com/google/guava/guava/18.0/guava-18.0.jar
+Source22  : https://repo1.maven.org/maven2/com/google/guava/guava/18.0/guava-18.0.pom
 Source23  : https://repo1.maven.org/maven2/com/google/guava/guava/19.0/guava-19.0.jar
-Source24  : https://repo1.maven.org/maven2/com/google/guava/guava/19.0/guava-19.0.pom
+Source24  : https://repo1.maven.org/maven2/com/google/guava/guava/19.0/guava-19.0.jar
 Source25  : https://repo1.maven.org/maven2/com/google/guava/guava/19.0/guava-19.0.pom
-Source26  : https://repo1.maven.org/maven2/com/google/guava/guava/25.1-android/guava-25.1-android.jar
-Source27  : https://repo1.maven.org/maven2/com/google/guava/guava/25.1-android/guava-25.1-android.pom
-Source28  : https://repo1.maven.org/maven2/org/sonatype/sisu/inject/guava-parent/0.9.9/guava-parent-0.9.9.pom
+Source26  : https://repo1.maven.org/maven2/com/google/guava/guava/19.0/guava-19.0.pom
+Source27  : https://repo1.maven.org/maven2/com/google/guava/guava/25.1-android/guava-25.1-android.jar
+Source28  : https://repo1.maven.org/maven2/com/google/guava/guava/25.1-android/guava-25.1-android.pom
+Source29  : https://repo1.maven.org/maven2/org/sonatype/sisu/inject/guava-parent/0.9.9/guava-parent-0.9.9.pom
 Summary  : No detailed summary available
 Group    : Development/Tools
 License  : Apache-2.0
@@ -63,86 +64,89 @@ cp %{SOURCE0} %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava-parent/16.0
 cp %{SOURCE1} %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava-parent/16.0/guava-parent-16.0.pom
 
+mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/16.0.1
+cp %{SOURCE2} %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/16.0.1/guava-16.0.1-sources.jar
+
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/16.0
-cp %{SOURCE2} %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/16.0/guava-16.0.pom
+cp %{SOURCE3} %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/16.0/guava-16.0.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava-parent/11.0.2
-cp %{SOURCE3} %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava-parent/11.0.2/guava-parent-11.0.2.pom
+cp %{SOURCE4} %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava-parent/11.0.2/guava-parent-11.0.2.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava-parent/12.0.1
-cp %{SOURCE4} %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava-parent/12.0.1/guava-parent-12.0.1.pom
-
-mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava-parent/14.0.1
-cp %{SOURCE5} %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava-parent/14.0.1/guava-parent-14.0.1.pom
+cp %{SOURCE5} %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava-parent/12.0.1/guava-parent-12.0.1.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava-parent/14.0.1
 cp %{SOURCE6} %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava-parent/14.0.1/guava-parent-14.0.1.pom
 
-mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava-parent/16.0.1
-cp %{SOURCE7} %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava-parent/16.0.1/guava-parent-16.0.1.pom
+mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava-parent/14.0.1
+cp %{SOURCE7} %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava-parent/14.0.1/guava-parent-14.0.1.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava-parent/16.0.1
 cp %{SOURCE8} %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava-parent/16.0.1/guava-parent-16.0.1.pom
 
-mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava-parent/18.0
-cp %{SOURCE9} %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava-parent/18.0/guava-parent-18.0.pom
+mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava-parent/16.0.1
+cp %{SOURCE9} %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava-parent/16.0.1/guava-parent-16.0.1.pom
 
-mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava-parent/19.0
-cp %{SOURCE10} %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava-parent/19.0/guava-parent-19.0.pom
+mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava-parent/18.0
+cp %{SOURCE10} %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava-parent/18.0/guava-parent-18.0.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava-parent/19.0
 cp %{SOURCE11} %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava-parent/19.0/guava-parent-19.0.pom
 
+mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava-parent/19.0
+cp %{SOURCE12} %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava-parent/19.0/guava-parent-19.0.pom
+
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava-parent/25.1-android
-cp %{SOURCE12} %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava-parent/25.1-android/guava-parent-25.1-android.pom
+cp %{SOURCE13} %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava-parent/25.1-android/guava-parent-25.1-android.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/11.0.2
-cp %{SOURCE13} %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/11.0.2/guava-11.0.2.jar
+cp %{SOURCE14} %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/11.0.2/guava-11.0.2.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/11.0.2
-cp %{SOURCE14} %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/11.0.2/guava-11.0.2.pom
+cp %{SOURCE15} %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/11.0.2/guava-11.0.2.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/12.0.1
-cp %{SOURCE15} %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/12.0.1/guava-12.0.1.jar
+cp %{SOURCE16} %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/12.0.1/guava-12.0.1.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/12.0.1
-cp %{SOURCE16} %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/12.0.1/guava-12.0.1.pom
+cp %{SOURCE17} %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/12.0.1/guava-12.0.1.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/14.0.1
-cp %{SOURCE17} %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/14.0.1/guava-14.0.1.pom
+cp %{SOURCE18} %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/14.0.1/guava-14.0.1.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/16.0.1
-cp %{SOURCE18} %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/16.0.1/guava-16.0.1.jar
+cp %{SOURCE19} %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/16.0.1/guava-16.0.1.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/16.0.1
-cp %{SOURCE19} %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/16.0.1/guava-16.0.1.pom
+cp %{SOURCE20} %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/16.0.1/guava-16.0.1.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/18.0
-cp %{SOURCE20} %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/18.0/guava-18.0.jar
+cp %{SOURCE21} %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/18.0/guava-18.0.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/18.0
-cp %{SOURCE21} %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/18.0/guava-18.0.pom
-
-mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/19.0
-cp %{SOURCE22} %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/19.0/guava-19.0.jar
+cp %{SOURCE22} %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/18.0/guava-18.0.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/19.0
 cp %{SOURCE23} %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/19.0/guava-19.0.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/19.0
-cp %{SOURCE24} %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/19.0/guava-19.0.pom
+cp %{SOURCE24} %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/19.0/guava-19.0.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/19.0
 cp %{SOURCE25} %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/19.0/guava-19.0.pom
 
-mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/25.1-android
-cp %{SOURCE26} %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/25.1-android/guava-25.1-android.jar
+mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/19.0
+cp %{SOURCE26} %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/19.0/guava-19.0.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/25.1-android
-cp %{SOURCE27} %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/25.1-android/guava-25.1-android.pom
+cp %{SOURCE27} %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/25.1-android/guava-25.1-android.jar
+
+mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/25.1-android
+cp %{SOURCE28} %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/25.1-android/guava-25.1-android.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/sonatype/sisu/inject/guava-parent/0.9.9
-cp %{SOURCE28} %{buildroot}/usr/share/java/.m2/repository/org/sonatype/sisu/inject/guava-parent/0.9.9/guava-parent-0.9.9.pom
+cp %{SOURCE29} %{buildroot}/usr/share/java/.m2/repository/org/sonatype/sisu/inject/guava-parent/0.9.9/guava-parent-0.9.9.pom
 
 
 %files
@@ -164,6 +168,7 @@ cp %{SOURCE28} %{buildroot}/usr/share/java/.m2/repository/org/sonatype/sisu/inje
 /usr/share/java/.m2/repository/com/google/guava/guava/12.0.1/guava-12.0.1.pom
 /usr/share/java/.m2/repository/com/google/guava/guava/14.0.1/guava-14.0.1.jar
 /usr/share/java/.m2/repository/com/google/guava/guava/14.0.1/guava-14.0.1.pom
+/usr/share/java/.m2/repository/com/google/guava/guava/16.0.1/guava-16.0.1-sources.jar
 /usr/share/java/.m2/repository/com/google/guava/guava/16.0.1/guava-16.0.1.jar
 /usr/share/java/.m2/repository/com/google/guava/guava/16.0.1/guava-16.0.1.pom
 /usr/share/java/.m2/repository/com/google/guava/guava/16.0/guava-16.0.pom
