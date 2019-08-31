@@ -4,7 +4,7 @@
 #
 Name     : mvn-guava
 Version  : 14.0.1
-Release  : 14
+Release  : 15
 URL      : https://repo1.maven.org/maven2/com/google/guava/guava/14.0.1/guava-14.0.1.jar
 Source0  : https://repo1.maven.org/maven2/com/google/guava/guava/14.0.1/guava-14.0.1.jar
 Source1  : https://repo.gradle.org/gradle/libs-releases/com/google/guava/guava-jdk5/14.0.1/guava-jdk5-14.0.1.jar
