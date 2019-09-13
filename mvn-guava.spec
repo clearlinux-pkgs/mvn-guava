@@ -4,7 +4,7 @@
 #
 Name     : mvn-guava
 Version  : 14.0.1
-Release  : 17
+Release  : 18
 URL      : https://repo1.maven.org/maven2/com/google/guava/guava/14.0.1/guava-14.0.1.jar
 Source0  : https://repo1.maven.org/maven2/com/google/guava/guava/14.0.1/guava-14.0.1.jar
 Source1  : https://repo.gradle.org/gradle/libs-releases/com/google/guava/guava-jdk5/14.0.1/guava-jdk5-14.0.1.jar
@@ -56,7 +56,9 @@ Source46  : https://repo1.maven.org/maven2/com/google/guava/guava/25.1-android/g
 Source47  : https://repo1.maven.org/maven2/com/google/guava/guava/25.1-android/guava-25.1-android.pom
 Source48  : https://repo1.maven.org/maven2/com/google/guava/guava/25.1-jre/guava-25.1-jre.jar
 Source49  : https://repo1.maven.org/maven2/com/google/guava/guava/25.1-jre/guava-25.1-jre.pom
-Source50  : https://repo1.maven.org/maven2/org/sonatype/sisu/inject/guava-parent/0.9.9/guava-parent-0.9.9.pom
+Source50  : https://repo1.maven.org/maven2/com/google/guava/guava/27.1-jre/guava-27.1-jre.jar
+Source51  : https://repo1.maven.org/maven2/com/google/guava/guava/27.1-jre/guava-27.1-jre.pom
+Source52  : https://repo1.maven.org/maven2/org/sonatype/sisu/inject/guava-parent/0.9.9/guava-parent-0.9.9.pom
 Summary  : No detailed summary available
 Group    : Development/Tools
 License  : Apache-2.0
@@ -231,8 +233,14 @@ cp %{SOURCE48} %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/25.1-jre
 cp %{SOURCE49} %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/25.1-jre/guava-25.1-jre.pom
 
+mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/27.1-jre
+cp %{SOURCE50} %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/27.1-jre/guava-27.1-jre.jar
+
+mkdir -p %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/27.1-jre
+cp %{SOURCE51} %{buildroot}/usr/share/java/.m2/repository/com/google/guava/guava/27.1-jre/guava-27.1-jre.pom
+
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/sonatype/sisu/inject/guava-parent/0.9.9
-cp %{SOURCE50} %{buildroot}/usr/share/java/.m2/repository/org/sonatype/sisu/inject/guava-parent/0.9.9/guava-parent-0.9.9.pom
+cp %{SOURCE52} %{buildroot}/usr/share/java/.m2/repository/org/sonatype/sisu/inject/guava-parent/0.9.9/guava-parent-0.9.9.pom
 
 
 %files
@@ -285,4 +293,6 @@ cp %{SOURCE50} %{buildroot}/usr/share/java/.m2/repository/org/sonatype/sisu/inje
 /usr/share/java/.m2/repository/com/google/guava/guava/25.1-android/guava-25.1-android.pom
 /usr/share/java/.m2/repository/com/google/guava/guava/25.1-jre/guava-25.1-jre.jar
 /usr/share/java/.m2/repository/com/google/guava/guava/25.1-jre/guava-25.1-jre.pom
+/usr/share/java/.m2/repository/com/google/guava/guava/27.1-jre/guava-27.1-jre.jar
+/usr/share/java/.m2/repository/com/google/guava/guava/27.1-jre/guava-27.1-jre.pom
 /usr/share/java/.m2/repository/org/sonatype/sisu/inject/guava-parent/0.9.9/guava-parent-0.9.9.pom
