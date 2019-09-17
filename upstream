@@ -52,3 +52,7 @@ b105fd57a854e155c14b358c34617c15b7e592ab/guava-parent-15.0.pom
 e47b59c893079b87743cdcfb6f17ca95c08c592c/guava-27.1-jre.jar
 db536f4a1c26739eb6ee1cfb707ec3fbe8325c86/guava-27.1-jre.pom
 a4686474dcba0d75d89e3d4f9665634832e49b6f/guava-parent-27.1-jre.pom
+1dcf1de382a0bf95a3d8b0849546c88bac1292c9/failureaccess-1.0.1.jar
+e8160e78fdaaf7088621dc1649d9dd2dfcf8d0e8/failureaccess-1.0.1.pom
+b421526c5f297295adef1c886e5246c39d4ac629/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar
+1b77ba79f9b2b7dfd4e15ea7bb0d568d5eb9cb8d/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.pom
