@@ -57,3 +57,6 @@ e8160e78fdaaf7088621dc1649d9dd2dfcf8d0e8/failureaccess-1.0.1.pom
 b421526c5f297295adef1c886e5246c39d4ac629/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar
 1b77ba79f9b2b7dfd4e15ea7bb0d568d5eb9cb8d/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.pom
 a2c0df489614352b7e8e503e274bd1dee5c42a64/guava-parent-26.0-android.pom
+bd41a290787b5301e63929676d792c507bbc00ae/guava-27.0.1-jre.jar
+a6ccf3af1d34509e5fb1f5bff675b9ae707ad628/guava-27.0.1-jre.pom
+8f7a96c144da567471d3d763a240c25ba374ebb1/guava-parent-27.0.1-jre.pom
